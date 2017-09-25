@@ -1,0 +1,5 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.dll
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\TestOfUnitTestsWithCalculator.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
